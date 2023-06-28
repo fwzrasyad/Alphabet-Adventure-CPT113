@@ -100,41 +100,50 @@ These object-oriented ideas enable us to make our code more modular, structured,
 
 ## Screenshots of Alphabet Adventure ##
 
-The first page of our game shows the greetings and menu for users to choose from if they want to play Alphabet Adventure Game.
+The first page of our game shows the greetings and menu for users to choose from, if they want to play Alphabet Adventure Game or exit.
 
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/96febe19-bca8-49f6-ab33-2d07bf8e7ffe)
 
-
 Type in ‘1’ to play game
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/f8929653-26ad-4185-998e-b88efd999b45)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/66569bee-3a2d-4658-a4af-3a19da0d237a)
 
 Briefly, several underscores appear. Each underscore represents a letter to complete a word that is given randomly. The task is to guess the word in a certain amount of guesses only.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/88a7f5c0-6b8f-44e9-a9a9-eb97c7979d91)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/726a1a88-2174-4508-a3c5-97db75cc3599)
 
 Enter any letter to start guessing. The shown example begins with any vocal letter (a, e, i, o, u) first as it is more likely to be correct.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/7a1b13a2-4196-4e25-a3df-7dec1129ca16)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/3d67fdd4-a41d-4fc7-92cc-88c8e06c7c87)
 
 The letter guessed before is wrong, as it doesn’t replace any underscore. The remaining guesses will be deducted. Try another letter.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/7d5e359f-d78f-4eb1-92a1-d938d37bc9d4)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/4e2ba287-b150-4154-832c-b41e38d6bf16)
 
 It’s wrong again. Need to key in another letter
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/dc0d6bb2-79de-4ca5-a864-27de61e9853a)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/73ac1c5a-20cf-44de-a27d-33e2895b02e6)
 
 The letter keyed in is correct, it replaced an underscore. Guess another letter to replace all underscore and form the word within the remaining guesses left.
 
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/49b53184-6fbc-4ad5-a41e-396f3b09e105)
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/d6b9a870-4646-4cfa-b810-bb3c4f292a1b)
 
 If the player gets the answer within the remaining guesses, the game will congratulate the player, and the player will win.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/4c2e0739-e123-4648-bfe8-b703081bab53)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/d169d3b2-6215-42a7-a9f1-b357b23db549)
 
 Players lose if they run out of guesses and fail to complete the word. The correct answer will be shown below, and the player will lose the game.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/1400d5fc-8c8f-409c-9c9d-c12a56f00ee7)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/be873f07-914c-444a-96a3-7600021edaa9)
 
 Players can opt to play again. Random words will be given again for the next round. 
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/67d40bdd-63c6-4bb9-a946-352f47bfb78b)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/1ecc26d8-6b3d-4360-9471-78a04c65009f)
 
 Overall, this is the screenshot if the player managed to win the game
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/efdd1303-e6d6-485d-8188-4f6fee18a42c)
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/01e33c11-642d-45e3-8660-f180e45df1cd)
+
 
 ## Alphabet Adventure Game Demo and Explanation Video ##
 The video for the demo of the game can be accessed through this link:
