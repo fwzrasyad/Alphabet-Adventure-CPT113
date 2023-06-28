@@ -15,6 +15,46 @@ Alphabet Adventure is a text based game developed in C++ where the player tries 
 - Feedback and Progress: The game provides feedback by displaying the guessed word with revealed letters and underscores for hidden letters and it shows the guessed letters and the number of remaining guesses.
 - Win/Loss Conditions: The game checks the win condition to determine if the player has guessed the entire word or not, and if the player loses all their guesses without guessing the word correctly, they lose the game.
 
+## How to play ##
+### Game Menu: ###
+
+Once the game runs, it will present a menu to the player.
+The menu offers two options:
+
+Option 1: Play the game.
+Option 2: Exit the game.
+
+The player is prompted to enter their choice by inputting the corresponding number.
+
+### Playing the Game: ###
+
+If the player chooses to play the game (Option 1):
+- A random word is obtained from the wordBank linked list using the getRandomWord() function.
+- The chosen word becomes the target word that the player needs to guess.
+- A new object of the Game class is created, initialized with the target word.
+- The game begins, and the player has a limited number of guesses to correctly identify the word.
+- The game provides the following information during each turn:
+  1. The currently guessed word is displayed, showing the correctly guessed letters and     underscores for unguessed letters.
+  2. The letters the player has guessed so far are shown.
+  3. The number of remaining guesses is displayed.
+- The player is required to enter a lowercase letter as their guess.
+- If the input is not a lowercase letter, an error message is displayed, and the player is prompted to enter a valid lowercase letter.
+- If the input is a valid lowercase letter, 
+  1. The game checks if the letter is present in the target word.
+  2. If the letter is correct, it is added to the guessed word, replacing the corresponding underscores.
+- If the letter is incorrect, the number of remaining guesses decreases.
+- The guessed letter is added to the list of guessed letters.
+- The game continues until one of the following conditions is met:
+  1. The player correctly guesses the word, in which case a congratulatory message is displayed.
+  2. The player runs out of guesses, in which case the target word is revealed, and a message indicating failure is shown.
+
+### Exiting the Game: ###
+
+- If the player chooses to exit the game (Option 2):
+  1. A goodbye message is displayed.
+  2. The game terminates.
+
+
 ## Object-Oriented Concepts to Develop Alphabet Adventure ##
 Object-oriented programming ideas have been used in our game code to improve its organisation and structure our programme. Let's analyse how these ideas were implemented utilising instances from our code:
 
