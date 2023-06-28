@@ -17,5 +17,6 @@ Alphabet Adventure is a text based game developed in C++ where the player tries 
 
 ## Concept of The Game ##
 Alphabet Adventure used object-oriented concepts by dividing the game into classes which encapsulate the data and behaviour that allows for easier organization and maintenance. The game is divided into multiple objects such as 'Game', 'LinkedList' and 'Node' that interacts with each other to perform specific information. An example of this is the object ‘Game’ interacts with ‘LinkedList’ to retrieve a random word from the word bank. 
+
 The linked list used in Alphabet Adventure acts to store the words in the word bank. The ‘WordBank’ class manages the linked list of words. It has a ‘head’ pointer that points to the first node in the linked list. It also has a member function ‘loadWordsFromFile’ that reads the words from wordbank.txt and fills in the linked list with the words. Each word from the file is added as a new node at the end of the linked list. The class also has the member function ‘getRandomWord’ that randomly selects a word from the linked list to be used in the game.
 
