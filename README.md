@@ -1,6 +1,8 @@
 ## Hackatahon 2 CPT 113 - Alphabet Adventure ##
 Made By: 
 - Muhammad Fawwaz Rasyad (160642)
+- Siti Nur Irdina Binti Turse Zuhair (163854)
+- Jasmine Binti Mohd Shaiful Adli Chung (164191)
 
 ## Game Description ##
 Alphabet Adventure is a text based game developed in C++ where the player tries to guess a given word by entering a letter that is in the word itself. The player has to carefully pick their letters though as they only have a fixed amount of guesses before it is game over!
