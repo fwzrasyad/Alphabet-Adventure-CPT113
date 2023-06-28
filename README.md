@@ -110,6 +110,7 @@ It’s wrong again. I need to key in another letter
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/dc0d6bb2-79de-4ca5-a864-27de61e9853a)
 
 The letter I keyed in is correct, it replaced an underscore. Guess another letter to replace all underscore and form the word within the remaining guesses left.
+
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/49b53184-6fbc-4ad5-a41e-396f3b09e105)
 
 If I get the answer within the remaining guesses, the game will congratulate me, and I will win.
