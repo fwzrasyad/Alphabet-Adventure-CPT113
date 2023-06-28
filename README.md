@@ -50,3 +50,6 @@ These object-oriented ideas enable us to make our code more modular, structured,
 - The `getRandomWord()` function can be used in your game to select a random word for the player to guess, ensuring a different word is chosen each time.
 
 ## Screenshots of Alphabet Adventure ##
+
+
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/0fdc975a-82d4-480d-8c22-657a1e3dea9f)
