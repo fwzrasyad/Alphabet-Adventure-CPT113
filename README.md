@@ -20,3 +20,12 @@ Alphabet Adventure used object-oriented concepts by dividing the game into class
 
 The linked list used in Alphabet Adventure acts to store the words in the word bank. The ‘WordBank’ class manages the linked list of words. It has a ‘head’ pointer that points to the first node in the linked list. It also has a member function ‘loadWordsFromFile’ that reads the words from wordbank.txt and fills in the linked list with the words. Each word from the file is added as a new node at the end of the linked list. The class also has the member function ‘getRandomWord’ that randomly selects a word from the linked list to be used in the game.
 
+## Role of Linked List in Alphabet Adventure ##
+
+- The linked list data structure is used to store and manage a collection of words in Alphabet Adventure.
+- The `LinkedList` class, defined in `LinkedList.h` and implemented in `LinkedList.cpp`, represents the linked list.
+- The linked list is initialized by creating an instance of the `LinkedList` class, called `wordBank`.
+- The `wordBank` serves as a repository of words that can be randomly selected for the game.
+- Words are added to the linked list using the `addNode()` function, which creates a new node with the word and appends it to the end of the list.
+- The `getRandomWord()` function allows the user to retrieve a random word from the linked list. It traverses the list, counts the number of nodes, generates a random index, and selects the word at that index.
+- The `getRandomWord()` function can be used in your game to select a random word for the player to guess, ensuring a different word is chosen each time.
