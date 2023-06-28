@@ -125,6 +125,10 @@ Players can opt to play again. Random words will be given again for the next rou
 Overall, this is the screenshot if the player managed to win the game
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/efdd1303-e6d6-485d-8188-4f6fee18a42c)
 
+## Alphabet Adventure Game Demo and Explanation ##
+The video for the demo of the game can be accessed through this link:
+[Alphabet Adventure Demo](https://youtu.be/y8AutS787_I)
+
 
 
 
