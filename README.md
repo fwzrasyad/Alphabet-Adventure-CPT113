@@ -14,3 +14,6 @@ Alphabet Adventure is a text based game developed in C++ where the player tries 
 - Guessing Mechanism: The game keeps tracks of the guessed letters and updates the guessed word accordingly, and also sets a maximum number of guesses for each word. If the player exceeds the limit, they lose the game.
 - Feedback and Progress: The game provides feedback by displaying the guessed word with revealed letters and underscores for hidden letters and it shows the guessed letters and the number of remaining guesses.
 - Win/Loss Conditions: The game checks the win condition to determine if the player has guessed the entire word or not, and if the player loses all their guesses without guessing the word correctly, they lose the game.
+
+## Concept of The Game ##
+Object Oriented 
