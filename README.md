@@ -4,6 +4,15 @@ Made By:
 - Siti Nur Irdina Binti Turse Zuhair (163854)
 - Jasmine Binti Mohd Shaiful Adli Chung (164191)
 
+## Table of Contents ##
+- [Game Description](#game-description)
+- [Features of Alphabet Adventure](#features-of-alphabet-adventure)
+- [How to play](#how-to-play)
+- [Object-Oriented Concepts to Develop Alphabet Adventure](#object-oriented-concepts-to-develop-alphabet-adventure)
+- [Role of Linked List in Alphabet Adventure](#role-of-linked-list-in-alphabet-adventure)
+- [Screenshots of Alphabet Adventure](#screenshots-of-alphabet-adventure)
+- [Alphabet Adventure Game Demo and Explanation Video ](#alphabet-adventure-game-demo-and-explanation-video)
+
 ## Game Description ##
 Alphabet Adventure is a text based game developed in C++ where the player tries to guess a given word by entering a letter that is in the word itself. The player has to carefully pick their letters though as they only have a fixed amount of guesses before it is game over!
 
@@ -125,8 +134,9 @@ Players can opt to play again. Random words will be given again for the next rou
 Overall, this is the screenshot if the player managed to win the game
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/efdd1303-e6d6-485d-8188-4f6fee18a42c)
 
-## Alphabet Adventure Game Demo and Explanation ##
+## Alphabet Adventure Game Demo and Explanation Video ##
 The video for the demo of the game can be accessed through this link:
+
 [Alphabet Adventure Demo](https://youtu.be/y8AutS787_I)
 
 
