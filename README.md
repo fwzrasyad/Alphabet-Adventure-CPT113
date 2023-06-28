@@ -101,7 +101,6 @@ These object-oriented ideas enable us to make our code more modular, structured,
 ## Screenshots of Alphabet Adventure ##
 
 The first page of our game shows the greetings and menu for users to choose from if they want to play Alphabet Adventure Game.
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/d258e310-e8e0-482f-a0d7-427f477f5c89)
 
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/96febe19-bca8-49f6-ab33-2d07bf8e7ffe)
 
