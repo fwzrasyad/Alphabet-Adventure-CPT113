@@ -51,5 +51,42 @@ These object-oriented ideas enable us to make our code more modular, structured,
 
 ## Screenshots of Alphabet Adventure ##
 
+The first page of our game shows the greetings and menu for users to choose from if they want to play Alphabet Adventure Game.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/d258e310-e8e0-482f-a0d7-427f477f5c89)
 
-![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/0fdc975a-82d4-480d-8c22-657a1e3dea9f)
+Type in ‘1’ to play game
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/f8929653-26ad-4185-998e-b88efd999b45)
+
+Briefly, several underscores appear. Each underscore represents a letter to complete a word that is given randomly. The task is to guess the word in 15 guesses only.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/88a7f5c0-6b8f-44e9-a9a9-eb97c7979d91)
+
+Enter any letter to start guessing. I will begin with any vocal letter (a , e, i, o, u) first as it is more likely to be correct.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/7a1b13a2-4196-4e25-a3df-7dec1129ca16)
+
+The letter I guess before is wrong, as it doesn’t replace any underscore.Your remaining chance (guess) will be deducted.  Let’s try another letter.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/7d5e359f-d78f-4eb1-92a1-d938d37bc9d4)
+
+It’s wrong again. I need to key in another letter
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/dc0d6bb2-79de-4ca5-a864-27de61e9853a)
+
+The letter I keyed in is correct, it replaced an underscore. Guess another letter to replace all underscore and form the word within the remaining guesses left.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/49b53184-6fbc-4ad5-a41e-396f3b09e105)
+
+If I get the answer within the remaining guesses, the game will congratulate me, and I will win.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/4c2e0739-e123-4648-bfe8-b703081bab53)
+
+I lose if I run out of guesses and fail to complete the word. The correct answer will be shown below, and I will lose the game.
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/1400d5fc-8c8f-409c-9c9d-c12a56f00ee7)
+
+Players can opt to play again. Random words will be given again for the next round. 
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/67d40bdd-63c6-4bb9-a946-352f47bfb78b)
+
+
+
+
+
+
+
+
+
+
