@@ -121,6 +121,10 @@ I lose if I run out of guesses and fail to complete the word. The correct answer
 Players can opt to play again. Random words will be given again for the next round. 
 ![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/67d40bdd-63c6-4bb9-a946-352f47bfb78b)
 
+Overall, this is the screenshot if the player managed to win the game
+![image](https://github.com/fwzrasyad/Alphabet-Adventure-CPT113/assets/121543815/efdd1303-e6d6-485d-8188-4f6fee18a42c)
+
+
 
 
 
